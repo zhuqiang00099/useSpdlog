@@ -1,15 +1,3 @@
-# useSpdlog
-- only a head  to use spdlog，一个头文件使用spdlog
-- csdn: https://blog.csdn.net/qq_16952303/article/details/139794754
-- ![image](console_result.png)
-
-# how to use
-1. git clone https://github.com/zhuqiang00099/useSpdlog.git
-2. 将exspdlog拷贝到你自己的工程里面
-3. 在cmake中包含exspdlog路径
-
-# test.cpp
-```
 #include "exspdlog/useSpdlog.h"
 int main()
 {
@@ -34,7 +22,3 @@ int main()
    
     return 0;
 }
-```
-# 求关注，分享C++，机器视觉，编码等方面
-- 微信公众号小朱玩CV示例代码，欢迎关注微信公众号：小朱玩CV
-- ![image](qrcode_for_gh_4a4b0bf3b55a_258.jpg)
