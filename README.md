@@ -9,7 +9,8 @@
 3. 在cmake中包含exspdlog路径
 
 # test.cpp
-```
+
+```cpp
 #include "exspdlog/useSpdlog.h"
 int main()
 {
